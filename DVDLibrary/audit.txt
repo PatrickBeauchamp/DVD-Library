@@ -1,0 +1,15 @@
+2018-09-06T12:31:06.051 : removeDVD: 6
+2018-09-06T13:09:38.903 : addDVD: 1ID: 1 |Title
+2018-09-06T13:11:09.577 : addDVD: 1ID: 1 |Title
+2018-09-06T13:33:12.766 : addDVD: 1ID: 1 |Title
+2018-09-06T13:37:12.257 : addDVD: 2ID: 2 |Title
+2018-09-06T13:38:39.057 : addDVD: 1ID: 1 |Title
+2018-09-06T13:39:54.588 : addDVD: 1ID: 1 |Title
+2018-09-06T13:56:37.847 : addDVD: 1ID: 1 |Title
+2018-09-06T14:10:04.796 : removeDVD: 1
+2018-09-06T14:12:15.224 : addDVD: 1ID: 1 |Title
+2018-09-06T14:17:57.948 : addDVD: 1ID: 1 |Title
+2018-09-06T14:18:43.131 : addDVD: 1ID: 1 |Title
+2018-09-06T14:36:18.684 : ERROR: Most fields [Title, Release Date, MPAA Rating, Director's Name, Studio] are required.
+2018-09-07T09:59:56.187 : ERROR: Most fields [Title, Release Date, MPAA Rating, Director's Name, Studio] are required.
+2018-12-07T11:58:57.875 : addDVD: 2ID: 2 |Title
